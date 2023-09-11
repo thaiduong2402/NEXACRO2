@@ -3,8 +3,10 @@
   <Environment themeid="theme::blue" datatyperule="2.0">
     <ScreenDefinition>
       <Screen id="Desktop_screen" type="desktop"/>
+      <Screen id="PHONE" type="mobile_small"/>
     </ScreenDefinition>
     <Variables/>
     <Cookies/>
+    <httpheader/>
   </Environment>
 </ENV>
